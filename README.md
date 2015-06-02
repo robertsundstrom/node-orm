@@ -28,7 +28,7 @@ Database connection defined in config.js.
 
 Requires:
 
-* TypeScript compiler built from the "asyncFunction" branch.
+* TypeScript compiler built from the "asyncFunctions" branch.
 * TypeScript compiler in ES6 mode for async/await support.
 * io.js for ES6 support, with flags: --use_strict --harmony  --harmony_arrow_functions
 
