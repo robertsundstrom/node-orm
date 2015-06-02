@@ -1,0 +1,14 @@
+{
+  "name": "ORM",
+  "version": "0.0.0",
+  "description": "ORM",
+  "main": "app.js",
+  "author": {
+    "name": "Robert",
+    "email": ""
+  },
+  "dependencies": {
+    "esprima": "^2.2.0",
+    "mysql2": "^0.15.7"
+  }
+}
