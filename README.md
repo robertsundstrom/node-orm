@@ -1,6 +1,12 @@
 # node-orm
 ORM for NodeJS
 
+## Features
+
+* Query translator (à la Entity Framework)
+
+## Example
+
     var db = new Database(config);
 
     var context = new BlogContext(db);
@@ -21,6 +27,9 @@ ORM for NodeJS
             };
         })
         .toArray();
+
+
+## Notes
 
 The version found in ../prototype is functional.
 
