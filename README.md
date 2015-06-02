@@ -1,5 +1,5 @@
 # node-orm
-ORM for NodeJS
+The beginning of an ORM for NodeJS
 
 ## Features
 
